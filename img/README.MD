@@ -1,0 +1,1 @@
+This folder is used to place the images for inference.
