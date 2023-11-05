@@ -2,7 +2,7 @@
 This is the implementation of the paper ["AECIF-Net: An Attention-Enhanced Co-Interactive Fusion Network for Automated Structural Condition Assessment in Visual Inspection"](https://arxiv.org/abs/2307.07643).
 
 ## Network Architecture
-![model-github](https://github.com/itschenyu/Multitask-Learning-Bridge-Inspection/assets/90736946/7f17fd8a-a172-489c-b92c-214b0d81f794)
+![model](https://user-images.githubusercontent.com/90736946/280549214-7f17fd8a-a172-489c-b92c-214b0d81f794.png)
 
 ## Getting Started
 ### Installation
