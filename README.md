@@ -31,7 +31,7 @@ To be added soon after the paper is accepted.
 If this work is helpful to you, please cite it as:
 ~~~~
 @misc{zhang2023acfnet,
-      title={ACF-Net: An Attention-enhanced Co-interactive Fusion Network for Automated Structural Condition Assessment in Visual Inspection}, 
+      title={AECIF-Net: An Attention-Enhanced Co-Interactive Fusion Network for Automated Structural Condition Assessment in Visual Inspection}, 
       author={Chenyu Zhang and Zhaozheng Yin and Ruwen Qin},
       year={2023},
       eprint={2307.07643},
