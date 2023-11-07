@@ -30,7 +30,7 @@ To be added soon after the paper is accepted.
 ## Citation
 If this work is helpful to you, please cite it as:
 ~~~~
-@misc{zhang2023acfnet,
+@misc{zhang2023aecifnet,
       title={AECIF-Net: An Attention-Enhanced Co-Interactive Fusion Network for Automated Structural Condition Assessment in Visual Inspection}, 
       author={Chenyu Zhang and Zhaozheng Yin and Ruwen Qin},
       year={2023},
