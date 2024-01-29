@@ -30,16 +30,19 @@ To be added soon after the paper is accepted.
 ## Citation
 If this work is helpful to you, please cite it as:
 ~~~~
-@misc{zhang2023aecifnet,
-      title={AECIF-Net: An Attention-Enhanced Co-Interactive Fusion Network for Automated Structural Condition Assessment in Visual Inspection}, 
-      author={Chenyu Zhang and Zhaozheng Yin and Ruwen Qin},
-      year={2023},
-      eprint={2307.07643},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{ZHANG2024105292,
+      title = {Attention-Enhanced Co-Interactive Fusion Network (AECIF-Net) for automated structural condition assessment in visual inspection},
+      journal = {Automation in Construction},
+      volume = {159},
+      pages = {105292},
+      year = {2024},
+      issn = {0926-5805},
+      doi = {https://doi.org/10.1016/j.autcon.2024.105292},
+      url = {https://www.sciencedirect.com/science/article/pii/S0926580524000281},
+      author = {Chenyu Zhang and Zhaozheng Yin and Ruwen Qin},
 }
 ~~~~
 ## Note
-Part of the codes are referred from <a href="https://github.com/bubbliiiing/hrnet-pytorch">HRNet-pytorch</a> project.
+Part of the codes are referred from <a href="[https://github.com/bubbliiiing/hrnet-pytorch](https://github.com/itschenyu/Multitask-Learning-Bridge-Inspection/)">MTL</a> project.
 
 The images and corrosion annotations in the dataset are credited to [Corrosion Condition State Semantic Segmentation Dataset](https://data.lib.vt.edu/articles/dataset/Corrosion_Condition_State_Semantic_Segmentation_Dataset/16624663/2) and [COCO-Bridge Dataset](https://data.lib.vt.edu/articles/dataset/COCO-Bridge_2021_Dataset/16624495/1).
