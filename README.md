@@ -1,6 +1,5 @@
 # AECIF-Net
-This is the implementation of the paper ["Attention-Enhanced Co-Interactive Fusion Network (AECIF-Net) for automated structural condition assessment in visual inspection
-"](https://www.sciencedirect.com/science/article/abs/pii/S0926580524000281).
+This is the implementation of the paper ["Attention-Enhanced Co-Interactive Fusion Network (AECIF-Net) for automated structural condition assessment in visual inspection"](https://www.sciencedirect.com/science/article/abs/pii/S0926580524000281).
 
 ## Network Architecture
 ![model](https://user-images.githubusercontent.com/90736946/280549214-7f17fd8a-a172-489c-b92c-214b0d81f794.png)
