@@ -39,7 +39,7 @@ If this work is helpful to you, please cite it as:
       issn = {0926-5805},
       doi = {https://doi.org/10.1016/j.autcon.2024.105292},
       url = {https://www.sciencedirect.com/science/article/pii/S0926580524000281},
-      author = {Chenyu Zhang and Zhaozheng Yin and Ruwen Qin},
+      author = {Chenyu Zhang and Zhaozheng Yin and Ruwen Qin}
 }
 ~~~~
 ## Note
