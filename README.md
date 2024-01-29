@@ -16,7 +16,7 @@ cd AECIF-Net
 * Please download the SBCIV dataset from [here](https://drive.google.com/drive/folders/1HLCUC8R9x3t-qB_t3NQ1XujMV43Axmv_?usp=share_link) and then place it in `./VOCdevkit/VOC2007/`.
 
 ### Pre-trained weights
-* To be added soon after the paper is accepted.
+* Please download pre-trained weights on Cityscapes from [here](https://cmu.box.com/s/uyzzfmkx8p2ipcznpzdtf14ng63s65sq) and place it in `./model_data/`.
 
 ### Training
 To be added soon after the paper is accepted.
