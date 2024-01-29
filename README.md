@@ -43,6 +43,6 @@ If this work is helpful to you, please cite it as:
 }
 ~~~~
 ## Note
-Part of the codes are referred from <a href="[https://github.com/itschenyu/Multitask-Learning-Bridge-Inspection]/">MTL-Bridge Inspection</a> project.
+Part of the codes are referred from <a href="https://github.com/itschenyu/Multitask-Learning-Bridge-Inspection">MTL-Bridge-Inspection</a> project.
 
 The images and corrosion annotations in the dataset are credited to [Corrosion Condition State Semantic Segmentation Dataset](https://data.lib.vt.edu/articles/dataset/Corrosion_Condition_State_Semantic_Segmentation_Dataset/16624663/2) and [COCO-Bridge Dataset](https://data.lib.vt.edu/articles/dataset/COCO-Bridge_2021_Dataset/16624495/1).
