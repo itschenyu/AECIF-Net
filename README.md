@@ -18,7 +18,7 @@ cd AECIF-Net
 ### Pre-trained weights
 * Please download pre-trained weights on Cityscapes from [here](https://cmu.app.box.com/s/if90kw6r66q2y6c5xparflhnbwi6c2yi) and place it in `./model_data/`.
 
-### Model Download
+### Model download
 |   Model   | mIoU_Element | mIoU_Defect | Weight |
 |:---------:|:------------:|:-----------:|:------:|
 | AECIF-Net |     92.11    |    87.16    |    1   |
