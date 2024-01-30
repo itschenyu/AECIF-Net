@@ -15,13 +15,13 @@ cd AECIF-Net
 ### Dataset
 * Please download the SBCIV dataset from [here](https://drive.google.com/drive/folders/15fmV5aLoMnWC-IWyCLNkE2qH8MDPfvox?usp=sharing) and then place it in `./VOCdevkit/VOC2007/`.
 
-### Pre-trained weights
+### Pre-trained Weight
 * Please download pre-trained weights on Cityscapes from [here](https://cmu.app.box.com/s/if90kw6r66q2y6c5xparflhnbwi6c2yi) and place it in `./model_data/`.
 
-### Model download
+### Model Download
 |   Model   | mIoU_Element | mIoU_Defect | Weight |
 |:---------:|:------------:|:-----------:|:------:|
-| AECIF-Net |     92.11    |    87.16    |    1   |
+| AECIF-Net |     92.11    |    87.16    |    [link](https://drive.google.com/file/d/1OeWRTi49QwzQzw2OZm52HqPZRayIKdM5/view?usp=sharing)   |
 
 ### Training
 ~~~~
