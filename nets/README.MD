@@ -1,1 +1,0 @@
-This folder is used to place network code.
