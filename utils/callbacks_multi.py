@@ -1,23 +1,18 @@
 import os
-
 import matplotlib
 import torch
 import torch.nn.functional as F
-
 matplotlib.use('Agg')
 from matplotlib import pyplot as plt
 import scipy.signal
-
 import cv2
 import shutil
 import numpy as np
-
 from PIL import Image
 from tqdm import tqdm
 from torch.utils.tensorboard import SummaryWriter
 from .utils import cvtColor, preprocess_input, resize_image
 from .utils_metrics_multi import compute_mIoU
-
 
 class LossHistory():
     def __init__(self, log_dir, model, input_shape):
