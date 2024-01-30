@@ -9,7 +9,7 @@ import torch.distributed as dist
 import torch.optim as optim
 from torch.utils.data import DataLoader
 
-from nets.hrnet_multi import AECIF_Net
+from nets.AECIF_Net import AECIF_Net
 from nets.hrnet_training import (get_lr_scheduler, set_optimizer_lr,
                                  weights_init)
 from utils.callbacks_multi import LossHistory, EvalCallback
