@@ -1,1 +1,0 @@
-This folder is used to place the utility code.
