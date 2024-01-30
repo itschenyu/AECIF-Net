@@ -19,13 +19,21 @@ cd AECIF-Net
 * Please download pre-trained weights on Cityscapes from [here](https://cmu.app.box.com/s/if90kw6r66q2y6c5xparflhnbwi6c2yi) and place it in `./model_data/`.
 
 ### Training
-To be added soon after the paper is accepted.
+~~~~
+python train_MTL-D.py
+~~~~
 
 ### Testing
-To be added soon after the paper is accepted.
+Evaluating the model on the test set:
+~~~~
+python get_miou.py
+~~~~
 
 ### Inference
-To be added soon after the paper is accepted.
+Place the inference images in `./img/`, and then run:
+~~~~
+python predict.py
+~~~~
 
 ## Citation
 If this work is helpful to you, please cite it as:
