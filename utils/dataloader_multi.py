@@ -7,7 +7,6 @@ from PIL import Image
 from torch.utils.data.dataset import Dataset
 from utils.utils import preprocess_input, cvtColor
 
-
 class SegmentationDataset(Dataset):
     def __init__(self, annotation_lines, input_shape, num_classes, train, dataset_path):
         super(SegmentationDataset, self).__init__()
