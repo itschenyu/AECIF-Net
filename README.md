@@ -21,7 +21,7 @@ cd AECIF-Net
 ### Model Download
 |   Model   | mIoU_Element | mIoU_Defect | Weight |
 |:---------:|:------------:|:-----------:|:------:|
-| AECIF-Net |     92.11    |    87.16    |    [link](https://drive.google.com/file/d/1OeWRTi49QwzQzw2OZm52HqPZRayIKdM5/view?usp=sharing)   |
+| AECIF-Net |     92.11    |    87.16    |    [Link](https://drive.google.com/file/d/1OeWRTi49QwzQzw2OZm52HqPZRayIKdM5/view?usp=sharing)   |
 
 ### Training
 ~~~~
