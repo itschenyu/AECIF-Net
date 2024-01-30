@@ -20,7 +20,7 @@ cd AECIF-Net
 
 ### Training
 ~~~~
-python train_MTL-D.py
+python train.py
 ~~~~
 
 ### Testing
