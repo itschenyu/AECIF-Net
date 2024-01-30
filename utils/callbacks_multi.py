@@ -219,9 +219,3 @@ class EvalCallback():
 
             print("Get miou done.")
             shutil.rmtree(self.miou_out_path)
-
-            mious = np.array(self.mious_e) + np.array(self.mious_d)
-
-            if max(mious) >= 0 and mious[-1] == max(mious):
-                print('Save best model to best_epoch_weights_mious.pth')
-                torch.save(self.net.state_dict(), os.path.join('logs', 'best_epoch_weights_mious.pth'))
