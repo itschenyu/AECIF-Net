@@ -13,7 +13,7 @@ git clone https://github.com/itschenyu/AECIF-Net.git
 cd AECIF-Net
 ~~~~
 ### Dataset
-* Please download the SBCIV dataset from [here](https://drive.google.com/drive/folders/1HLCUC8R9x3t-qB_t3NQ1XujMV43Axmv_?usp=share_link) and then place it in `./VOCdevkit/VOC2007/`.
+* Please download the SBCIV dataset from [here](https://drive.google.com/drive/folders/15fmV5aLoMnWC-IWyCLNkE2qH8MDPfvox?usp=sharing) and then place it in `./VOCdevkit/VOC2007/`.
 
 ### Pre-trained weights
 * Please download pre-trained weights on Cityscapes from [here](https://cmu.app.box.com/s/if90kw6r66q2y6c5xparflhnbwi6c2yi) and place it in `./model_data/`.
