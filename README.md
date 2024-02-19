@@ -41,7 +41,7 @@ python predict.py
 ~~~~
 
 ## Citation
-If this work is helpful to you, please cite it as:
+If AECIF-Net and the SBCIV dataset are helpful to you, please cite them as:
 ~~~~
 @article{ZHANG2024105292,
       title = {Attention-Enhanced Co-Interactive Fusion Network (AECIF-Net) for automated structural condition assessment in visual inspection},
